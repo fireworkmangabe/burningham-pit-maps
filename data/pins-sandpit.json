@@ -1,0 +1,164 @@
+[
+  {
+    "id": "sp-auto-01",
+    "type": "entrance",
+    "name": "South entrance",
+    "note": "auto - verify",
+    "x": 0.703,
+    "y": 0.795999,
+    "source": "auto"
+  },
+  {
+    "id": "sp-auto-02",
+    "type": "entrance",
+    "name": "North entrance",
+    "note": "auto - verify",
+    "x": 0.634,
+    "y": 0.109996,
+    "source": "auto"
+  },
+  {
+    "id": "sp-auto-03",
+    "type": "machine",
+    "name": "Wash plant",
+    "note": "auto - verify",
+    "x": 0.448267,
+    "y": 0.465566,
+    "source": "auto"
+  },
+  {
+    "id": "sp-auto-12",
+    "type": "machine",
+    "name": "Screen / conveyor",
+    "note": "auto - verify",
+    "x": 0.478,
+    "y": 0.722297,
+    "source": "auto"
+  },
+  {
+    "id": "sp-auto-14",
+    "type": "other",
+    "name": "North office trailer",
+    "note": "auto - verify",
+    "x": 0.514933,
+    "y": 0.1184,
+    "source": "auto"
+  },
+  {
+    "id": "sp-auto-15",
+    "type": "other",
+    "name": "South office trailer",
+    "note": "auto - verify",
+    "x": 0.638,
+    "y": 0.73256,
+    "source": "auto"
+  },
+  {
+    "id": "sp-auto-16",
+    "type": "vehicle-parking",
+    "name": "South vehicle parking",
+    "note": "auto - verify",
+    "x": 0.623667,
+    "y": 0.695746,
+    "source": "auto",
+    "polygon": [
+      {
+        "x": 0.602,
+        "y": 0.687193
+      },
+      {
+        "x": 0.645333,
+        "y": 0.687193
+      },
+      {
+        "x": 0.645333,
+        "y": 0.704299
+      },
+      {
+        "x": 0.602,
+        "y": 0.704299
+      }
+    ]
+  },
+  {
+    "id": "sp-auto-17",
+    "type": "equipment-parking",
+    "name": "South equipment parking",
+    "note": "auto - verify",
+    "x": 0.585,
+    "y": 0.650751,
+    "source": "auto",
+    "polygon": [
+      {
+        "x": 0.563333,
+        "y": 0.613565
+      },
+      {
+        "x": 0.606667,
+        "y": 0.613565
+      },
+      {
+        "x": 0.606667,
+        "y": 0.687937
+      },
+      {
+        "x": 0.563333,
+        "y": 0.687937
+      }
+    ]
+  },
+  {
+    "id": "sp-auto-18",
+    "type": "vehicle-parking",
+    "name": "North vehicle parking",
+    "note": "auto - verify",
+    "x": 0.591667,
+    "y": 0.148743,
+    "source": "auto",
+    "polygon": [
+      {
+        "x": 0.58,
+        "y": 0.133869
+      },
+      {
+        "x": 0.603333,
+        "y": 0.133869
+      },
+      {
+        "x": 0.603333,
+        "y": 0.163617
+      },
+      {
+        "x": 0.58,
+        "y": 0.163617
+      }
+    ]
+  },
+  {
+    "id": "sp-auto-19",
+    "type": "equipment-parking",
+    "name": "Ready-mix parking",
+    "note": "auto - verify",
+    "x": 0.553333,
+    "y": 0.146884,
+    "source": "auto",
+    "polygon": [
+      {
+        "x": 0.526667,
+        "y": 0.118994
+      },
+      {
+        "x": 0.58,
+        "y": 0.118994
+      },
+      {
+        "x": 0.58,
+        "y": 0.174773
+      },
+      {
+        "x": 0.526667,
+        "y": 0.174773
+      }
+    ]
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "id": "rd-auto-01",
+    "type": "entrance",
+    "name": "Main entrance / scale",
+    "note": "auto - verify",
+    "x": 0.499261,
+    "y": 0.103067,
+    "source": "auto"
+  },
+  {
+    "id": "rd-auto-02",
+    "type": "other",
+    "name": "Truck scale",
+    "note": "auto - verify",
+    "x": 0.499261,
+    "y": 0.135067,
+    "source": "auto"
+  },
+  {
+    "id": "rd-auto-03",
+    "type": "other",
+    "name": "Scale house",
+    "note": "auto - verify",
+    "x": 0.489611,
+    "y": 0.124667,
+    "source": "auto"
+  },
+  {
+    "id": "rd-auto-04",
+    "type": "other",
+    "name": "Shop",
+    "note": "auto - verify",
+    "x": 0.536878,
+    "y": 0.074533,
+    "source": "auto"
+  },
+  {
+    "id": "rd-auto-07",
+    "type": "machine",
+    "name": "Crushing / screening plant",
+    "note": "auto - verify",
+    "x": 0.389956,
+    "y": 0.547333,
+    "source": "auto"
+  },
+  {
+    "id": "rd-auto-10",
+    "type": "machine",
+    "name": "Stacker / conveyor (red stockpiles)",
+    "note": "auto - verify",
+    "x": 0.547514,
+    "y": 0.548267,
+    "source": "auto"
+  },
+  {
+    "id": "rd-auto-11",
+    "type": "machine",
+    "name": "Stacker (light stockpiles)",
+    "note": "auto - verify",
+    "x": 0.667258,
+    "y": 0.559467,
+    "source": "auto"
+  },
+  {
+    "id": "rd-auto-12",
+    "type": "machine",
+    "name": "Parked conveyors",
+    "note": "auto - verify",
+    "x": 0.516002,
+    "y": 0.4184,
+    "source": "auto"
+  },
+  {
+    "id": "rd-auto-15",
+    "type": "other",
+    "name": "Plant building",
+    "note": "auto - verify",
+    "x": 0.521516,
+    "y": 0.495467,
+    "source": "auto"
+  },
+  {
+    "id": "rd-auto-16",
+    "type": "vehicle-parking",
+    "name": "Shop vehicle parking",
+    "note": "auto - verify",
+    "x": 0.556376,
+    "y": 0.056667,
+    "source": "auto",
+    "polygon": [
+      {
+        "x": 0.543575,
+        "y": 0.048
+      },
+      {
+        "x": 0.569178,
+        "y": 0.048
+      },
+      {
+        "x": 0.569178,
+        "y": 0.065333
+      },
+      {
+        "x": 0.543575,
+        "y": 0.065333
+      }
+    ]
+  },
+  {
+    "id": "rd-auto-17",
+    "type": "equipment-parking",
+    "name": "Shop equipment parking",
+    "note": "auto - verify",
+    "x": 0.563269,
+    "y": 0.071,
+    "source": "auto",
+    "polygon": [
+      {
+        "x": 0.526834,
+        "y": 0.046667
+      },
+      {
+        "x": 0.543575,
+        "y": 0.046667
+      },
+      {
+        "x": 0.543575,
+        "y": 0.066
+      },
+      {
+        "x": 0.61546,
+        "y": 0.066
+      },
+      {
+        "x": 0.61546,
+        "y": 0.105333
+      },
+      {
+        "x": 0.567208,
+        "y": 0.105333
+      },
+      {
+        "x": 0.567208,
+        "y": 0.066
+      },
+      {
+        "x": 0.526834,
+        "y": 0.066
+      }
+    ]
+  },
+  {
+    "id": "rd-auto-18",
+    "type": "vehicle-parking",
+    "name": "Plant vehicle parking",
+    "note": "auto - verify",
+    "x": 0.42278,
+    "y": 0.538222,
+    "source": "auto",
+    "polygon": [
+      {
+        "x": 0.401773,
+        "y": 0.524
+      },
+      {
+        "x": 0.437223,
+        "y": 0.524
+      },
+      {
+        "x": 0.437223,
+        "y": 0.534667
+      },
+      {
+        "x": 0.429345,
+        "y": 0.534667
+      },
+      {
+        "x": 0.429345,
+        "y": 0.556
+      },
+      {
+        "x": 0.401773,
+        "y": 0.556
+      }
+    ]
+  },
+  {
+    "id": "rd-auto-19",
+    "type": "equipment-parking",
+    "name": "Plant equipment parking",
+    "note": "auto - verify",
+    "x": 0.446086,
+    "y": 0.542667,
+    "source": "auto",
+    "polygon": [
+      {
+        "x": 0.429345,
+        "y": 0.536
+      },
+      {
+        "x": 0.462826,
+        "y": 0.536
+      },
+      {
+        "x": 0.462826,
+        "y": 0.549333
+      },
+      {
+        "x": 0.429345,
+        "y": 0.549333
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Burningham Trucking - Pit Maps</title>
+  <meta name="robots" content="noindex" />
+  <link rel="stylesheet" href="css/app.css" />
+</head>
+<body>
+  <div id="app">
+    <header class="topbar">
+      <div class="brand">
+        <h1>Burningham Trucking <span>— Pit Maps</span></h1>
+        <div class="sub">View-only yard maps · zoom, pan, and browse labels</div>
+      </div>
+      <nav class="map-switch" id="mapSwitch" aria-label="Map switcher"></nav>
+      <div class="tools">
+        <button id="btnHome" title="Reset view">Home</button>
+        <button id="btnFull" title="Fullscreen">Fullscreen</button>
+      </div>
+    </header>
+    <div class="main">
+      <div id="viewer"></div>
+      <aside class="sidebar">
+        <h2>Legend</h2>
+        <div class="legend" id="legend"></div>
+        <h2>Pins</h2>
+        <div class="pin-list" id="pinList"></div>
+        <div class="hint">
+          This is a view-only map. Zoom and pan to explore, use the legend to filter types,
+          and click a pin in the list to fly to it. Labels can be hidden with <strong>Show labels</strong>.
+        </div>
+      </aside>
+    </div>
+  </div>
+  <script src="vendor/openseadragon/openseadragon.min.js"></script>
+  <script src="js/maps.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

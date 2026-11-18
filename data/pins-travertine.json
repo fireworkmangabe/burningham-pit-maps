@@ -1,0 +1,145 @@
+[
+  {
+    "id": "tv-auto-01",
+    "type": "entrance",
+    "name": "South entrance",
+    "note": "auto - verify",
+    "x": 0.070027,
+    "y": 0.984932,
+    "source": "auto"
+  },
+  {
+    "id": "tv-auto-02",
+    "type": "entrance",
+    "name": "Lower pad entrance",
+    "note": "auto - verify",
+    "x": 0.113011,
+    "y": 0.55197,
+    "source": "auto"
+  },
+  {
+    "id": "tv-auto-03",
+    "type": "entrance",
+    "name": "Upper pad entrance",
+    "note": "auto - verify",
+    "x": 0.255926,
+    "y": 0.298287,
+    "source": "auto"
+  },
+  {
+    "id": "tv-auto-04",
+    "type": "machine",
+    "name": "Portable plant (west)",
+    "note": "auto - verify",
+    "x": 0.382561,
+    "y": 0.233616,
+    "source": "auto"
+  },
+  {
+    "id": "tv-auto-05",
+    "type": "machine",
+    "name": "Portable plant (center)",
+    "note": "auto - verify",
+    "x": 0.439782,
+    "y": 0.248283,
+    "source": "auto"
+  },
+  {
+    "id": "tv-auto-06",
+    "type": "machine",
+    "name": "Conveyor",
+    "note": "auto - verify",
+    "x": 0.4703,
+    "y": 0.262951,
+    "source": "auto"
+  },
+  {
+    "id": "tv-auto-10",
+    "type": "other",
+    "name": "Office trailer",
+    "note": "auto - verify",
+    "x": 0.140872,
+    "y": 0.821388,
+    "source": "auto"
+  },
+  {
+    "id": "tv-auto-11",
+    "type": "machine",
+    "name": "Stacker / conveyor",
+    "note": "auto - verify",
+    "x": 0.219346,
+    "y": 0.585906,
+    "source": "auto"
+  },
+  {
+    "id": "tv-auto-13",
+    "type": "machine",
+    "name": "Portable plant (lower pad)",
+    "note": "auto - verify",
+    "x": 0.185014,
+    "y": 0.654177,
+    "source": "auto"
+  },
+  {
+    "id": "tv-auto-14",
+    "type": "vehicle-parking",
+    "name": "Office vehicle parking",
+    "note": "auto - verify",
+    "x": 0.145095,
+    "y": 0.810054,
+    "source": "auto",
+    "polygon": [
+      {
+        "x": 0.138965,
+        "y": 0.805387
+      },
+      {
+        "x": 0.151226,
+        "y": 0.805387
+      },
+      {
+        "x": 0.151226,
+        "y": 0.814721
+      },
+      {
+        "x": 0.138965,
+        "y": 0.814721
+      }
+    ]
+  },
+  {
+    "id": "tv-auto-15",
+    "type": "equipment-parking",
+    "name": "Office equipment parking",
+    "note": "auto - verify",
+    "x": 0.141122,
+    "y": 0.805609,
+    "source": "auto",
+    "polygon": [
+      {
+        "x": 0.126022,
+        "y": 0.783386
+      },
+      {
+        "x": 0.158038,
+        "y": 0.783386
+      },
+      {
+        "x": 0.158038,
+        "y": 0.805387
+      },
+      {
+        "x": 0.139646,
+        "y": 0.805387
+      },
+      {
+        "x": 0.139646,
+        "y": 0.828055
+      },
+      {
+        "x": 0.125341,
+        "y": 0.828055
+      }
+    ]
+  }
+]
